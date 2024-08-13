@@ -27,4 +27,4 @@ Dropout Layers (for regularization)
 Softmax Activation (for the output layer)
 
 # Results
-The model achieves an accuracy of X% on the test dataset after Y epochs of training. Below is an example of the accuracy and loss plots generated during training:
+The model achieves an accuracy of 71.85% on the test dataset after 4 epochs of training. 
