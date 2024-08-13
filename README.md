@@ -20,11 +20,11 @@ The dataset is already divided into training and test sets, and the images are p
 # Model Architecture
 The CNN model is designed to classify the images into the 10 categories. The architecture includes:
 
-Convolutional Layers
-Pooling Layers
-Fully Connected Layers
-Dropout Layers (for regularization)
-Softmax Activation (for the output layer)
+* Convolutional Layers
+* Pooling Layers
+* Fully Connected Layers
+* Dropout Layers (for regularization)
+* Softmax Activation (for the output layer)
 
 # Results
 The model achieves an accuracy of 71.85% on the test dataset after 4 epochs of training. 
