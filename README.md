@@ -1,6 +1,14 @@
-# CNN_MODEL_CIFAR10
-
-
+CIFAR-10 Classification using Convolutional Neural Networks (CNN)
+Table of Contents
+Project Overview
+Dataset
+Model Architecture
+Installation
+Usage
+Results
+Contributing
+License
+Acknowledgments
 Project Overview
 This project implements a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset. CIFAR-10 is a collection of 60,000 32x32 color images across 10 different classes. The goal of this project is to build a deep learning model that can achieve high accuracy in classifying these images.
 
@@ -64,3 +72,14 @@ Copy code
 python visualize.py
 Results
 The model achieves an accuracy of X% on the test dataset after Y epochs of training. Below is an example of the accuracy and loss plots generated during training:
+
+
+Contributing
+Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any bugs or feature requests.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments
+The CIFAR-10 dataset is provided by the Canadian Institute for Advanced Research.
+Thanks to the open-source community for providing the tools and resources used in this project.
